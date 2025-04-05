@@ -1,7 +1,7 @@
 # TSC-Project
 
 ## Block Diagram  
-![Diagram](./BLOCK Diagram.png)
+![Diagram](./Images/BLOCK Diagram.png)
 
 ## BOM (Bill Of Materials)
 
