@@ -1,0 +1,24 @@
+{
+    "Header": {
+        "Comment": "All values are metric (mm)",
+        "CreationDate": "2025-04-15T08:38:39Z",
+        "GenerationSoftware": {
+            "Application": "Fusion Electronics",
+            "Vendor": "Autodesk",
+            "Version": "9.7.0"
+        },
+        "Part": "Single"
+    },
+    "Overall": {
+        "BoardThickness": 1.67,
+        "LayerNumber": 2,
+        "Name": {
+            "ProjectId": "Proiect v93"
+        },
+        "Owner": "Ana Obreja <ana_maria.obreja@stud.acs.upb.ro>",
+        "Size": {
+            "X": 170.2,
+            "Y": 111.2
+        }
+    }
+}
